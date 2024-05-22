@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an internship project, Optimental](https://github.com/JohanWRutberg/optimental2c)
 
-- 👨‍💻 All of my projects are available at [http://www.johan-rutberg.se](http://www.johan-rutberg.se)
+- 👨‍💻 Other projects will soon be available at [http://www.johan-rutberg.se](http://www.johan-rutberg.se)
 
 - 📫 How to reach me **johan.w.rutberg@gmail.com**
 
