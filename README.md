@@ -18,9 +18,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanwrutberg" alt="johanwrutberg" /></a> </p><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanwrutberg&show_icons=true&locale=en&layout=compact" alt="johanwrutberg" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanwrutberg&show_icons=true&locale=en&layout=compact" alt="johanwrutberg" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanwrutberg&show_icons=true&locale=en" alt="johanwrutberg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanwrutberg&show_icons=true&locale=en" alt="johanwrutberg" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanwrutberg&" alt="johanwrutberg" /></p>
 
